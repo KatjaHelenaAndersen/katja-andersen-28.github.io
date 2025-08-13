@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Torben S. D. Johansen"
-description              : &description "Personal website of Torben S. D. Johansen"
-url                      : https://TorbenSDJohansen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Katja Helena Andersen"
+description              : &description "Personal website of Katja Helena Andersen"
+url                      : https://katja-andersen-28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TorbenSDJohansen/TorbenSDJohansen.github.io"
+repository               : "KatjaHelenaAndersen/katja-andersen-28.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Torben S. D. Johansen"
+  name             : "Katja Helena Andersen"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at University of Southern Denmark"
+  bio              : "Ph.D. Student at University of Southern Denmark"
   location         : 
   employer         : "University of Southern Denmark"
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TorbenSDJohansen"
+  github           : "katja-andersen-28"
   google_plus      :
   keybase          :
   instagram        :

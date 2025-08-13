@@ -1,10 +1,10 @@
 ---
 title: "Regression Analysis"
 collection: teaching
-type: "Lecturer, bachelor level course"
-permalink: /teaching/regressions-analysis-2025
+type: "Teaching assistant, bachelor level course"
+permalink: /teaching/regressions-analysis-2019
 venue: "University of Southern Denmark"
-date: 2025-09-01-2026-01-31
+date: 2025-09-01
 location: "Odense, Denmark"
 ---
 
