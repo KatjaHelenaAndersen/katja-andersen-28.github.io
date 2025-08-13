@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+Here you can find some of my conference presentations and various other talks.
+The list is non-exhaustive.
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+{% for post in site.teaching reversed %}
+  {% if post.path contains 'deep-learning-model-deployment' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
