@@ -86,7 +86,7 @@ author:
   location         : 
   employer         : "University of Southern Denmark"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ptOuH9UAAAAJ&hl=da"
+  googlescholar    : #"https://scholar.google.com/citations?user=ptOuH9UAAAAJ&hl=da"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "torben-johansen-373b70150/"
-  orcid            : "https://orcid.org/0000-0002-5964-5052"
+  linkedin         : "https://www.linkedin.com/in/katja-helena-a-554962302"
+  orcid            : "https://orcid.org/0009-0004-7262-4901"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

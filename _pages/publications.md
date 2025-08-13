@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Working papers
+## Working Papers
 
 {% for post in site.publications reversed %}
   {% if post.path contains 'wp' %}
