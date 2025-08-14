@@ -4,7 +4,7 @@ collection: research
 permalink: /research
 excerpt: ''
 author: 'Katja H. Andersen and Seetha Menon'
-date: 2025-06-13
+date: ''
 ---
 
 **Authors**: 
