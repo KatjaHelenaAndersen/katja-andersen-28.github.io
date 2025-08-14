@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ redirect_from:
 * 2024 – Present: Ph.D. Student
   * University of Southern Denmark, Odense, Denmark
   * Ph.D. in Economics
-  * Primary supervisor: Seetha Menon
+  * Supervisor: Seetha Menon
   * Co-supervisor: Giovanni Mellace
 
 * 2023: Teaching Assistant in Mathematics
