@@ -16,7 +16,7 @@ redirect_from:
 * Bachelor of Economics, University of Southern Denmark, 2022.
   * Thesis: *The Role of Government in East Asian Economic Development – A Singapore Case Study*
 
-## Work experience
+## Work Experience
 * 2024 – Present: Ph.D. Student
   * University of Southern Denmark, Odense, Denmark
   * Ph.D. in Economics
