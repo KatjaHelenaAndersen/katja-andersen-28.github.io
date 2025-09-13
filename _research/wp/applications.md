@@ -23,4 +23,6 @@ on subsequent mental health and examine if duration of unemployment is the under
 driving this effect. These results provide an estimation of the mental health-related costs of
 this legislative change. Such costs should be considered in future legislative discussions, as any
 economic benefits could be negated by the ensuing burden on the healthcare system.
+
+
 ```
